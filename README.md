@@ -11,7 +11,7 @@ gateways to ensure coverage along the south coast of the island.
 Project was developed in MicroPython, and uses LoRa ISM frequencies to transmit from prototype to nodes
 and WIFI to transmit data through IP to The Things Network. 
 
-This project was developed by me in the Madeira island, Portugal as a part of a scholarship
+This project was developed in the Madeira island, Portugal as a part of a scholarship
 under the LARGESCALE project with grant no. 32474 by Fundação para a Ciência e a Tecnologia (FCT) 
 and Portuguese National Funds (PIDDAC). It is also supported by the funding from Projeto Estratégico 
 UID/EEA/50009/2019 (ARDITI/LARSyS). It is also supported by Programa de Cooperación INTERREG V-A España-Portugal MAC 
